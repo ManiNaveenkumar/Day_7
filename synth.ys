@@ -1,0 +1,3 @@
+read_verilog cla.v
+prep -top cla
+show -format svg -prefix cla_map 
